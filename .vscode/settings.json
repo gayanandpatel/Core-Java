@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "18. JavaLang Package",
+        "17. Multithreading",
+        "16. Exception Handling",
         "15. Packages",
         "14. Static and Final",
         "13. Inner Classes",
@@ -15,7 +18,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "16. Exception Handling"
+        "19. Annotations and JavaDoc"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
