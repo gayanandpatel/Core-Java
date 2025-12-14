@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "20. Lambda Expression",
         "19. Annotations and JavaDoc",
         "18. JavaLang Package",
         "17. Multithreading",
@@ -19,7 +20,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "20. Lambda Expression"
+        "21. Java IO Streams"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

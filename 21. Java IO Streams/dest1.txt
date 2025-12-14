@@ -1,0 +1,1 @@
+this is my source text - welcome to java io streams.
