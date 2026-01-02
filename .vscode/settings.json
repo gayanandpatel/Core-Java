@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "21. Java IO Streams",
         "20. Lambda Expression",
         "19. Annotations and JavaDoc",
         "18. JavaLang Package",
@@ -20,7 +21,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "21. Java IO Streams"
+        "22. Collection Framework"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
