@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "24. Java AWT",
         "23. Network Programming",
         "22. Collection Framework",
         "21. Java IO Streams",
@@ -23,7 +24,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "24. Java AWT"
+        "25. Java Swing"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
