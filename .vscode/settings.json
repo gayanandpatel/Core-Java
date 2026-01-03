@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "23. Network Programming",
         "22. Collection Framework",
         "21. Java IO Streams",
         "20. Lambda Expression",
@@ -22,7 +23,7 @@
         "03. Operators and Expressions",
         "02. Data Types - Variables and LIterals",
         "01. Introduction",
-        "23. Network Programming"
+        "24. Java AWT"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
